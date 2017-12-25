@@ -23,6 +23,6 @@ function sayHiToGrandma(string) {
   else if (string.toLowerCase()===sring){
     return "I can\'t hear you!"
   }
-  else return 
+  else return "YES INDEED!"
 }
 
